@@ -1,7 +1,7 @@
 # Apprentissage-statistique
-##Nom
+## Nom
 Saint-chely Kilian
-##Instruction
+## Instruction
 Téléchargé le dossier tp
 Ouvrir code tp.py avec votre interface python
 Exécuté le code
